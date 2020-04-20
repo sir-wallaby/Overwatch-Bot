@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj": {}
+    "C:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj": {
+    "C:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj",
+        "projectUniqueName": "C:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj",
         "projectName": "OverwatchBot",
-        "projectPath": "c:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj",
+        "projectPath": "C:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj",
         "packagesPath": "C:\\Users\\Wesley\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\obj\\",
+        "outputPath": "C:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"

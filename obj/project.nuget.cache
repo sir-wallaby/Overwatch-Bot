@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ro89REtV74I7QSGJeRGBjh0Y0Fa2iaJNGmseQyayWL4mmjQl8xExfUunBc9z6PE5wLLPOnXkGRWAsiboKmbow==",
+  "dgSpecHash": "yccXoor7SFZ6KqknUXMPYKWrKG+TX5+qrhrBvzy1+oL7vFmK7Mnv58bR1AMyJJSHNo68DHLIkAA6jtXCn2NbQA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj",
+  "projectFilePath": "C:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wesley\\.nuget\\packages\\discord.net\\2.2.0\\discord.net.2.2.0.nupkg.sha512",
     "C:\\Users\\Wesley\\.nuget\\packages\\discord.net.commands\\2.2.0\\discord.net.commands.2.2.0.nupkg.sha512",
