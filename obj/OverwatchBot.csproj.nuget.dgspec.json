@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj": {}
+    "c:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj": {
+    "c:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj",
+        "projectUniqueName": "c:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj",
         "projectName": "OverwatchBot",
-        "projectPath": "C:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj",
+        "projectPath": "c:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\OverwatchBot.csproj",
         "packagesPath": "C:\\Users\\Wesley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\obj\\",
+        "outputPath": "c:\\Users\\Wesley\\Documents\\PersonalFiles\\Personal Coding\\OverwatchBot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Wesley\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,6 +38,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Discord.Net": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\program files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
